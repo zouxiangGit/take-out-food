@@ -2,9 +2,11 @@
 
 ## 注意！
 
-请在student-name.txt中，写上你的名字，以便老师识别。
+请在`student-name.txt`中，写上你的名字，以便老师识别。
 
 没有写名字的，直接视为不通过。
+
+另外提交作业时，通过pull request的方式提交到该repo。在pull request的标题上，也写上你的名字以方便老师查看。
 
 ## 考试目标
 
